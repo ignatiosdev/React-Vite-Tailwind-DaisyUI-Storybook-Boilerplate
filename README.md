@@ -47,10 +47,14 @@ In the project directory, you can run the following scripts:
 - `npm run storybook`: Starts Storybook to develop and test UI components.
 - `npm run build-storybook`: Builds Storybook for production.
 
-## Customization
+## Contributing
+If you would like to contribute to React Modern Template, please follow these guidelines:
 
-Feel free to customize this template to fit your specific project requirements. You can modify the existing code, add new components, or include additional dependencies as needed.
+-Fork the repository.
+- Create a new branch for your feature or bug fix.
+- Commit your changes with descriptive messages.
+- Push your branch to your forked repository.
+- Submit a pull request to the main repository.
 
----
-
-I hope React Modern Template provides a solid starting point for your React projects. If you have any questions or encounter any issues, please don't hesitate to reach out. Happy coding!
+## License
+This project is licensed under the MIT License. Feel free to use and modify this template for your own projects.
